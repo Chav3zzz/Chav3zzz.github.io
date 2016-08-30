@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+    margin: 0px;
+}
+
+h1{
+    margin:0;
+}
+
+#canvas{
+    width:100%;
+    overflow: hidden;
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color: #1a1724;
+}
+.page-header{
+    background:none;
+    color:#fff;
+    padding:200px 30px;
+}
+
+div.canvas-content{
+    position:relative;
+    z-index:2000;
+    color:#fff;
+    text-align:center;
+}
+.btn{
+    background-color: rgba(255, 255, 255, 1);
+    color:#606c71;
+}
