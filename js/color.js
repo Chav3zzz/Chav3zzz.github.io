@@ -63,12 +63,3 @@ var color2 = "rgb("+r2+","+g2+","+b2+")";
 }
 
 setInterval(updateGradient,7);
-
-var canvas = document.getElementById("canvas");
-    var context = canvas.getContext("2d");
-    var intro = canvas.getContext("2d");
-      context.fillStyle = "white";
-      context.font = "bold 70px Arial";
-      context.fillText("press enter to start", 90, 330);
-      intro.font = "bold 30px Arial";
-      context.fillText("escape the memes with your mouse", 145, 250);
