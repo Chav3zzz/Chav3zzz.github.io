@@ -4,7 +4,7 @@ var colors = new Array(
   [224,224,224],
   [102,102,102],
   [0,0,0],
-  [51,51,51],
+  [224,224,224],
   [192,192,192],
   [102,102,102]);
 
@@ -62,4 +62,4 @@ var color2 = "rgb("+r2+","+g2+","+b2+")";
   }
 }
 
-setInterval(updateGradient,7);
+setInterval(updateGradient,5);
