@@ -53,7 +53,7 @@ a:visited {
 }
 
 a:hover,
-a:focus { color: #343434; }
+a:focus { color: #696969; }
 p a,
 p a:visited { line-height: inherit; }
 
@@ -198,7 +198,7 @@ b, strong { font-weight: bold; }
 
 			button:hover,
 			.button:hover,
-			a.button:hover { background: #343434; }
+			a.button:hover { background: #696969; }
 
 			button.black,
 			.button.black,
